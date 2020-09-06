@@ -1,0 +1,19 @@
+{
+    "name": "nomess/parameter",
+    "description": "Parameter store for nomess",
+    "type": "library",
+    "require": {
+        "nomess/config": "^0.0.0"
+    },
+    "authors": [
+        {
+            "name": "Romain Lavabre",
+            "email": "webmaster@newwebsouth.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nomess\\Component\\Parameter\\": "/"
+        }
+    }
+}
