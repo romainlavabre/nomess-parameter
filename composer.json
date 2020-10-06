@@ -3,7 +3,8 @@
     "description": "Parameter store for nomess",
     "type": "library",
     "require": {
-        "nomess/config": "*"
+        "nomess/config": "*",
+        "nomess/cli": "*"
     },
     "authors": [
         {
